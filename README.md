@@ -43,6 +43,3 @@ This repository contains a comprehensive collection of projects and resources re
 ## Getting Started
 
 To get started with any of the projects, ensure you have the necessary software installed. Most projects will include a README file with specific instructions on how to open and work with the design files.
-
----
-
